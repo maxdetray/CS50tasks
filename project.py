@@ -12,7 +12,7 @@ class Form(StatesGroup):
     delete = State()
 
 
-TOKEN = '6895281906:AAGu2II3tvJx9tum8lcLr3WOXjw2e2NjSPU'
+TOKEN = ''
 user_router = Router()
 dp = Dispatcher()
 
